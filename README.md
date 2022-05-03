@@ -14,14 +14,14 @@
 
 # Bounce Mail Handler
 
-WARNING: This is a Extended-Fork of instaclick's [PHPMailer-BMH](https://github.com/instaclick/PHPMailer-BMH) what is on the other hand a Fork of WorxWare's [PHPMailer-BMH](http://sourceforge.net/projects/bmh/).
+Forked from voku/PHPMailer-BMH, an Extended-Fork of instaclick's [PHPMailer-BMH](https://github.com/instaclick/PHPMailer-BMH) which is a Fork of WorxWare's [PHPMailer-BMH](http://sourceforge.net/projects/bmh/).
 
 ## Installation
 
 The recommended installation way is through [Composer](https://getcomposer.org).
 
 ```bash
-$ composer require voku/bounce-mail-handler
+$ composer require nettsite/bounced-email-handler
 ```
 
 ## Examples
