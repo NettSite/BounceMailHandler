@@ -1,7 +1,7 @@
 {
-  "name": "voku/bounce-mail-handler",
+  "name": "nettsite/email-bounce-handler",
   "type": "library",
-  "description": "Bounce Mail Handler",
+  "description": "Handles bounced emails",
   "keywords": [
     "bounce",
     "mail",
@@ -28,9 +28,14 @@
       "email": "lars@moelleken.org",
       "role": "Fork Maintainer"
     }
+    {
+      "name": "Will Nettmann",
+      "email": "will@nettsite.co.za",
+      "role": "Yet Another Fork Maintainer"
+    }
   ],
   "require": {
-    "php": ">=7.0.0",
+    "php": ">=8.0.0",
     "ext-imap": "*"
   },
   "require-dev": {
